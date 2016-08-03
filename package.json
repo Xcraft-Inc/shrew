@@ -1,0 +1,24 @@
+{
+  "name": "shrew",
+  "version": "0.1.0",
+  "description": "Extract root path from a module",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xcraft-Inc/shrew.git"
+  },
+  "keywords": [
+    "root",
+    "path",
+    "extract"
+  ],
+  "author": "Mathieu Schroeter & Samuel Loup",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Xcraft-Inc/shrew/issues"
+  },
+  "homepage": "https://github.com/Xcraft-Inc/shrew#readme"
+}
