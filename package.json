@@ -1,7 +1,7 @@
 {
   "name": "shrew",
-  "version": "0.1.0",
-  "description": "Extract root path from a module",
+  "version": "0.1.1",
+  "description": "Extract root path from a module in an NPM context (scripts)",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
